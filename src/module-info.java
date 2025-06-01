@@ -4,5 +4,5 @@
 /**
  * 
  */
-module CadastroDetran1 {
+module CadastroDetran {
 }
